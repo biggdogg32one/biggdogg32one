@@ -10,7 +10,7 @@
 <h3>Мои сертификаты</h3>
 
 
-- Английский для IT
+- Английский для IT https://github.com/biggdogg32one/biggdogg32one/blob/main/English%20IT.pdf
 
 <!---
 biggdogg32one/biggdogg32one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
